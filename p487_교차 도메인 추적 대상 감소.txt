@@ -1,0 +1,5 @@
+﻿gtag('config', 'GA_MEASUREMENT_ID', {
+  'linker': {
+    'accept_incoming': true
+  }
+});

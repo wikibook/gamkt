@@ -1,0 +1,36 @@
+﻿<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({
+  'ecommerce': {
+    'purchase': {
+      'actionField': {
+        'id': 'T12345',
+        'affiliation': 'Online Store',
+        'revenue': '9550',
+        'tax':'850',
+        'shipping': '500',
+        'coupon': 'SUMMER_SALE'
+      },
+      'products': [{
+        'name': 'Triblend Android T-Shirt',
+        'id': '12345',
+        'price': '2500',
+        'brand': 'Google',
+        'category': 'Apparel',
+        'variant': 'Gray',
+        'quantity': 1,
+        'coupon': ''
+       },
+       {
+        'name': 'Donut Friday Scented T-Shirt',
+        'id': '67890',
+        'price': '3000',
+        'brand': 'Google',
+        'category': 'Apparel',
+        'variant': 'Black',
+        'quantity': 2
+       }]
+    }
+  }
+});
+</script>

@@ -1,0 +1,8 @@
+dataLayer.push({
+  'event': 'gaEvent',
+  'eventCategory': '이벤트 카테고리에서 측정할 값을 입력하십시오', 
+  'eventAction': '이벤트 작업에서 측정할 값을 입력하십시오', 
+  'eventLabel': '이벤트 라벨에서 측정할 값을 입력하십시오', 
+  'evantValue': 값으로 측정할 값을 입력하십시오, 
+  'nonInteraction': true or false
+});

@@ -1,0 +1,20 @@
+﻿<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({
+  'event': 'addToCart',
+  'ecommerce': {
+    'add': {
+      'products': [{
+        'name': 'Triblend Android T-Shirt',
+        'id': '12345',
+        'price': '2500',
+        'brand': 'Google',
+        'category': 'Apparel',
+        'variant': 'Gray',
+        'quantity': 1,
+        'dimension1': 'Taro Netcom'
+       }]
+    }
+  }
+});
+</script>

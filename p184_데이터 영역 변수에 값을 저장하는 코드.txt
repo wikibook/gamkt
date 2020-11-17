@@ -1,0 +1,18 @@
+<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({
+  'ecommerce': {
+    'detail': {
+      'actionField': {'list': 'Apparel Gallery'},
+      'products': [{
+        'name': 'Triblend Android T-Shirt',
+        'id': '12345',
+        'price': '2500',
+        'brand': 'Google',
+        'category': 'Apparel',
+        'variant': 'Gray'
+       }]
+     }
+   }
+});
+</script>
